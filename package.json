@@ -1,0 +1,19 @@
+{
+  "name": "1md3-discord-bot",
+  "version": "1.0.0",
+  "description": "COMPSCI 1MD3 Discord Bot.",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkantereivin/1md3-discord-bot.git"
+  },
+  "author": "David Kanter Eivin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dkantereivin/1md3-discord-bot/issues"
+  },
+  "homepage": "https://github.com/dkantereivin/1md3-discord-bot#readme"
+}
